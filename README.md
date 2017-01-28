@@ -1,14 +1,9 @@
 # speak-tac-toe
 
-A Clojure library designed to ... well, that part is up to you.
-
-## Usage
-
-FIXME
+A small project for a mental/spoken Tic-Tac-Toe referee.
 
 ## License
 
-Copyright © 2017 FIXME
+Copyright © 2017 Joel Birchler
 
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+Distributed under the MIT License.
